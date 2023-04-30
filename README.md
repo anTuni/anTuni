@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anTuni
-- I’m interested in Backend server, Data, Cloud platform
+- I’m interested in Web, Data, Cloud platform
 - I’m currently learning in SSAFY(Samsung Software Academy For Youth)
-- How to reach me : cfdw011@gmail.com
+- email : cfdw011@gmail.com
 
 # ANTuni's  journey with UNY)
 Experiences that I have been through in the last 2.5 years.
@@ -16,10 +16,10 @@ Experiences that I have been through in the last 2.5 years.
 
 관계형 데이터베이스(MariaDB)를 설계/개발
 웹 서버(Apache, PHP, Codeigniter3)를 설계/개발
-온프레미 리눅스 서버와 클라우드 환경(Azure, AWS)에 배포
+온프레미 리눅스 서버와 클라우드 환경(Azure VM, AWS EC2,RDS)에 배포
 
-클라이언트 앱(React Navtive, HTML5, CSS,Javascript) 개발
-앱스토어(Google Play, AppStore)를 통해 배포했습니다.
+모바일 하이브리드 앱(React Navtive, HTML5, CSS,Javascript) 개발
+앱스토어(Google Play, AppStore) 배포
 
 노마드 코딩, 챌린지(치악산, 설악산 울산바위)
 
