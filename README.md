@@ -3,6 +3,22 @@
 - I’m currently learning in SSAFY(Samsung Software Academy For Youth)
 - email : cfdw011@gmail.com
 
+Skills : Java, SpringBoot, Javascript, ReactNative
+Tools : AWS, Linux, Docker
+
+# ANTuni's  journey with SSAFY(Samsung Software Academy For Youth)
+
+## Summary
+2022.07 ~ 2023.06
+- Learn Computer science(Data Structure, Algorithm, Database, Network)
+- Learn how to develop Web Service based Java(SpringBoot)
+- Team Projects
+
+    1. Web SNS for Young Developer
+    2. Learning Dinosaur Mobile App for children.
+    3. AI Bolt abnormal detection program
+
+
 # ANTuni's  journey with UNY)
 Experiences that I have been through in the last 2.5 years.
 
