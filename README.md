@@ -1,68 +1,121 @@
+# TAEYUN AN (Tuni, 튜니)
+
 - 👋 Hi, I’m @anTuni
-- I’m interested in Web, Data, Cloud platform
-- I’m currently learning in SSAFY(Samsung Software Academy For Youth)
+- I’m interested in Web Development, Data science, Cloud platform
+- I'm aspiring extensible, scalable developer
+- I’m currently working for Project Coach in SSAFY(Samsung Software Academy For Youth)
 - email : cfdw011@gmail.com
 
-Skills : Java, SpringBoot, Javascript, ReactNative
+## Skills : 
 
-Tools : AWS, Linux, Docker
+- Languages : Java, Javascript,Python
+- Frameworks : SpringBoot, Vue, ReactNative, FastAPI
+- Database : MariaDB
+- Devops : AWS EC2, Linux, Docker, Jenkins
+- Tools : Git, Jira, Slack 
 
-# ANTuni's  journey with SSAFY(Samsung Software Academy For Youth)
+## Tuni's  journey with SSAFY(Samsung Software Academy For Youth)
+Experiences that I have been through in the last 1 years.
 
-## Summary
-2022.07 ~ 2023.06
+### Summary
+
+Project Coach 2023.07 ~ 
+- Support Trainees in SSAFY to manage project
+
+Trainee 2022.07 ~ 2023.06
 - Learn Computer science(Data Structure, Algorithm, Database, Network)
 - Learn how to develop Web Service based Java(SpringBoot)
 - Team Projects
 
-    1. Web SNS for Young Developer
-    2. Mobile App for children to Learning Dinosaur .
-    3. AI Bolt abnormal detection program
+### Projects
+1. **SEMAI:**(2023.04~2023.05)
+- **Github:** [https://github.com/anTuni/project_semes](https://github.com/anTuni/project_semes)
+- AI System for Inspecting Bolt Condition
+- Collaboration with **SEMES** (Company manufacturing equipment for the semiconductor industry)
+- Team Project in SSAFY (Samsung Software Academy For Youth)
+- **Role:** Back-end Developer, Project Manager, Presenter
+- What I Did
+    - Developed REST API to manage files, run AI inspecting processes, and display real-time results.
+    - Managing Project : Communication with collaborator, Manage develop schedule, Presentaion
+- Achievement
+    - Awarded 2nd prize in the SSAFY 8th Final Project presentation.
 
+2. **Bundler**(2023.01~2023.02)
+- **Github:** [https://github.com/anTuni/Bundler](https://github.com/anTuni/Bundler)
+- Web SNS for Aspiring Developers
+- Team Project in SSAFY (Samsung Software Academy For Youth)
+- **Role:** Back-end Developer
 
-# ANTuni's  journey with UNY)
-Experiences that I have been through in the last 2.5 years.
+- What I Did
+    - Designed Entities (Data Scheme)
+    - Developed REST API to Retrieve User Statistics
+    - Set up CI/CD Pipeline with Jenkins, Docker, Shell Script
 
-# Contents
-1. Overview
-2. Projects with UNY
-3. What I Learned
+## Tuni's  journey with WEPO
+I participate in INNO-Lab B (a program supporting start-ups by KOICA INNOPORT) as a fullstack developer of  team WEPO RDC
 
-## Overview
-서비스 요구 사항 분석
+### Project **WEPO**(2022.04~2022.06)
+- **URL:** [https://wepo.tech](https://wepo.tech)
+- Secondhand Trading Platform for Democratic Republic of Congo
 
-관계형 데이터베이스(MariaDB)를 설계/개발
-웹 서버(Apache, PHP, Codeigniter3)를 설계/개발
-온프레미 리눅스 서버와 클라우드 환경(Azure VM, AWS EC2,RDS)에 배포
+- Team Project from Inno-Lab B program 
+    - The program of KOICA INNOPORT to support start-ups for developing country
 
-모바일 하이브리드 앱(React Navtive, HTML5, CSS,Javascript) 개발
-앱스토어(Google Play, AppStore) 배포
+- **Role:** Fullstack Developer
 
-노마드 코딩, 챌린지(치악산, 설악산 울산바위)
+- What I did
+    - Develop Product management system(REST API, Database) 
+    - Develop Client Mobile App (Javascript, React Native) 
+    - Deploy server to Amazon EC2, client app to Google Play Store
 
-풀지 못 하는 문제는 없다는 마인드셋으로 항상 도전합니다.
-부딪침으로 배웁니다.
+## Tuni's  journey with UNY
+Experiences that I have been through in 2.5 years.
 
-프로그래밍 언어, 리눅스, 관계형 데이터 베이스, 네트워크, 아파치 등에 대해 공부했습니다. 
+### Table of Contents
+- [Overview](#overview)
+- [Projects](#projects)
 
-## Projects
-1.  the ocean resort fitness CRM solution development  
-    디오션 리조트 내 피트니스 회원 관리 프로그램 개발
-    * MVC 패턴 코드이그나이터의 UI 파트 (view)의 작은 부분을 작업했습니다.
-      * 락커 사용 현황 페이지
-2.  더불어 성장하는 이타주의자들 커뮤니티 앱 개발
-	* React Native 앱을 개발했습니다.
-3.  각종 랜딩 페이지
-	5.  효정 블레싱 페스티벌
-	6.  피스디자이너 긴급 대응
-	7.  피스디자이너 원페이지
-4.  청청초대 이벤트 사이트 개발
-	* 닮은꼴 찾기 기능 개발
-		* 파이썬(sellenium,openCV)을 사용해 모델 학습 위한 데이터 크롤링, 전처리 등
-5.  HJ 커뮤니티 - 온라인 예배 시청 모바일 하이브리드 앱
-	* React Native
-6.  HJPALM - 역량 관리 솔루션
-7.  AWS - 클라우드 기반 웹서버 구축 및 서비스 배포
+### Overview
+- Service Requirement Analysis
+
+- Design/Development of a Relational Database (MariaDB)
+- Design/Development of Web Server (Apache, PHP, Codeigniter3)
+- Deployment on On-Premises Linux Servers and Cloud Environments (Azure VM, AWS EC2, RDS)
+
+- Development of Mobile Hybrid App (React Native, HTML5, CSS, Javascript)
+- Deployment on App Stores (Google Play, AppStore)
+
+- Nomad Coding Challenges (Chiaksan, Seoraksan, Ulsan Rock)
+
+- Always approach challenges with a mindset that no problem is unsolvable.
+- Learn from challenges and setbacks.
+
+- Studied Programming Languages, Linux, Relational Databases, Networking, Apache, and more.
+
+### Projects
+1. **The Ocean Resort Fitness CRM Solution Development**
+   - Development of a fitness membership management program within Diocean Resort.
+   - Worked on a small part of the UI (view) of the MVC pattern Codeigniter.
+     - Locker usage status page.
+
+2. **Developing a Community App for Growing Egalitarians Together**
+   - Developed a React Native app.
+
+3. **Various Landing Pages**
+   - Hyojeong Blessing Festival
+   - Peace Designer Emergency Response
+   - Peace Designer One-page
+
+4. **Fresh Invitation Event Site Development**
+   - Developed a look-alike search feature.
+     - Used Python (selenium, openCV) for data crawling, preprocessing for model training.
+
+5. **HJ Community - Mobile Hybrid App for Online Worship Viewing**
+   - Developed using React Native.
+
+6. **HJPALM - Competency Management Solution**
+
+7. **AWS - Cloud-Based Web Server Construction and Service Deployment**
 
 
 <!---
