@@ -16,7 +16,7 @@ Tools : AWS, Linux, Docker
 - Team Projects
 
     1. Web SNS for Young Developer
-    2. Learning Dinosaur Mobile App for children.
+    2. Mobile App for children to Learning Dinosaur .
     3. AI Bolt abnormal detection program
 
 
