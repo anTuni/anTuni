@@ -1,7 +1,7 @@
 # TAEYUN AN (Tuni, 튜니)
 
 - 👋 Hi, I’m @anTuni
-- I’m interested in Web Development, Data science, Cloud platform
+- I’m interested in Web Development, Cloud platform
 - I'm aspiring extensible, scalable developer
 - I’m currently working for Project Coach in SSAFY(Samsung Software Academy For Youth)
 - email : cfdw011@gmail.com
